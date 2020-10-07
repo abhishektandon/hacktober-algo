@@ -12,3 +12,4 @@ Contributors
 - pranav6670
 - OfficialNMN
 - joshuanussbaum
+- jaypaliwal1212
